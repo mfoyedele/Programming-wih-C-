@@ -1,4 +1,6 @@
-﻿using System;
+// Write a program that prints 1, 101, 1001, each on a new line
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,8 +11,7 @@ namespace QuestionTwo
     class Program
     {
         static void Main(string[] args)
-        {
-            // Write a program that prints 1, 101, 1001, each on a new line
+        {            
             int one = 1;
             int oneZeroOne = 101;
             int oneZeroZeroOne = 1001;
