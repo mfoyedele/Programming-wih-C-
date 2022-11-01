@@ -1,4 +1,6 @@
-﻿using System;
+// Write a program that prints your first and last name on the console.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +12,6 @@ namespace QuestionOne
     {
         static void Main(string[] args)
         {
-            // Write a program that prints your first and last name on the console.
             string firstName = "";
             string lastName = "";
 
